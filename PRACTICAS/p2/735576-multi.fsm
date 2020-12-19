@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<!DOCTYPE qfsmproject SYSTEM 'qfsm.dtd'>
+<qfsmproject version="0.54" author="Qfsm">
+  <machine nummooreout="0" transfontitalic="0" draw_it="1" statefontsize="8" transfont="Helvetica" statefontitalic="0" author="" description="" version="" name="multi" arrowtype="1" numbits="2" statefontweight="50" statefont="Helvetica" numin="0" transfontsize="8" transfontweight="50" type="2" numout="0" initialstate="0">
+    <outputnames_moore></outputnames_moore>
+    <inputnames></inputnames>
+    <outputnames></outputnames>
+    <itransition ypos="285.8333333333333" endx="290" xpos="240" endy="285.8333333333333"/>
+    <state pencolor="0" exit_actions="" radius="50" description="" finalstate="0" entry_actions="RA&lt;-BR(ra); RB&lt;-BR(rb)" moore_outputs="" ypos="285.8333333333333" code="0" xpos="340" linewidth="1">q0</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="RC&lt;-RA+RB" moore_outputs="" ypos="126.6666666666667" code="1" xpos="635" linewidth="1">q1/SUMA</state>
+    <state pencolor="0" exit_actions="" radius="44" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="300" code="2" xpos="857.5" linewidth="1">q2/Escritura resultado</state>
+    <transition c1x="447.6176900026215" c2y="123.4364006201738" c1y="216.8341906239158" description="" straight="0" type="2" ypos="259.0399757845723" endx="595.3088849314532" xpos="382.215115672757" endy="121.7052772830984" c2x="460.6299541337041">
+      <from>0</from>
+      <to>1</to>
+      <inputs default="0" any="0" invert="0">1(add)</inputs>
+      <outputs>(mux=x;regw=0;sig=0)</outputs>
+    </transition>
+    <transition c1x="391.3353612069677" c2y="379.7500819554103" c1y="404.9253258132787" description="" straight="1" type="2" ypos="335.1530295249405" endx="321.3197953997861" xpos="348.2199493652678" endy="330.1490812181221" c2x="255.9986442044299">
+      <from>0</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">0(mov)</inputs>
+      <outputs>(mux=0;regw=1;sig=1)</outputs>
+    </transition>
+    <transition c1x="776.0778067976036" c2y="234.7265264478509" c1y="192.0240170677405" description="" straight="0" type="2" ypos="146.8215076876301" endx="817.1275524863634" xpos="669.5511560359373" endy="282.5052727440908" c2x="778.4377908926034">
+      <from>1</from>
+      <to>2</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(mux=x;regw=0;sig=0)</outputs>
+    </transition>
+    <transition c1x="535.7924387218861" c2y="309.117699745821" c1y="367.6186255770621" description="" straight="0" type="2" ypos="300.314839882467" endx="386.4238345442629" xpos="813.5011264252321" endy="304.4028671510387" c2x="528.2505200875008">
+      <from>2</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(mux=1;regw=1;sig=1)</outputs>
+    </transition>
+  </machine>
+</qfsmproject>

@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+<!DOCTYPE qfsmproject SYSTEM 'qfsm.dtd'>
+<qfsmproject version="0.54" author="Qfsm">
+  <machine nummooreout="0" transfontitalic="0" draw_it="1" statefontsize="8" transfont="Helvetica" statefontitalic="0" author="" description="" version="" name="atomata" arrowtype="1" numbits="4" statefontweight="50" statefont="Helvetica" numin="0" transfontsize="8" transfontweight="50" type="2" numout="0" initialstate="0">
+    <outputnames_moore></outputnames_moore>
+    <inputnames></inputnames>
+    <outputnames></outputnames>
+    <itransition ypos="365.9999999999999" endx="769.8333333333335" xpos="709.8333333333335" endy="365.9999999999999"/>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="365.9999999999999" code="0" xpos="809.8333333333335" linewidth="1">State_0</state>
+    <state pencolor="0" exit_actions="" radius="40" description="Fetch" finalstate="0" entry_actions="" moore_outputs="" ypos="142" code="1" xpos="576" linewidth="1">State_1</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="66" code="2" xpos="891" linewidth="1">State_2</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="126" code="3" xpos="1101" linewidth="1">State_3</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="329" code="4" xpos="1150" linewidth="1">State_4</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="345" code="5" xpos="438" linewidth="1">State_5</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="478" code="6" xpos="326" linewidth="1">State_6</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="566" code="7" xpos="485" linewidth="1">State_7</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="626.8333333333334" code="8" xpos="672.3333333333334" linewidth="1">State_8</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="679" code="9" xpos="855" linewidth="1">State_9</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="745" code="10" xpos="1171" linewidth="1">State_10</state>
+    <state pencolor="0" exit_actions="" radius="40" description="" finalstate="0" entry_actions="" moore_outputs="" ypos="479" code="11" xpos="1336" linewidth="1">State_11</state>
+    <transition c1x="863.6232160792439" c2y="338.8103893731539" c1y="195.8601317345792" description="" straight="0" type="2" ypos="328.2803866566843" endx="844.2772335025981" xpos="823.1461380427388" endy="345.662405719217" c2x="994.602028389177">
+      <from>0</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">000(NOP)</inputs>
+      <outputs>(PcWr=1;IrWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="940.2253501306299" c2y="609.4479603571022" c1y="501.1526618309578" description="" straight="1" type="2" ypos="392.8573633048134" endx="1141.724241022746" xpos="839.4759046845719" endy="717.7432588832463" c2x="1040.974795576688">
+      <from>0</from>
+      <to>10</to>
+      <inputs default="0" any="0" invert="0">100(BEQ)</inputs>
+      <outputs>(AWr=1;BWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="756.0808263829882" c2y="526.5933778745601" c1y="463.9889188905359" description="" straight="1" type="2" ypos="401.3844599065117" endx="685.882112064243" xpos="791.1801835423609" endy="589.1978368585843" c2x="720.9814692236156">
+      <from>0</from>
+      <to>8</to>
+      <inputs default="0" any="0" invert="0">011(ST)</inputs>
+      <outputs>(AWr=1;BWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="613.7306449333365" c2y="347.1649103413408" c1y="297.8298206826816" description="" straight="0" type="2" ypos="364.9947310240224" endx="478" xpos="769.8459674000048" endy="345" c2x="550.781989133335">
+      <from>0</from>
+      <to>5</to>
+      <inputs default="0" any="0" invert="0">010(LD)</inputs>
+      <outputs>(BWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="726.7862907012727" c2y="259.0931828781593" c1y="297.6526410836342" description="" straight="0" type="2" ypos="338.8787659557758" endx="589.8282143530944" xpos="780.4319955420285" endy="179.5337246726845" c2x="565.9739191938502">
+      <from>0</from>
+      <to>1</to>
+      <inputs default="0" any="0" invert="0">101(MOV)</inputs>
+      <outputs>(RegWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="825.0847739657476" c2y="98.71272949001204" c1y="254.3840081583558" description="" straight="0" type="2" ypos="326.0552868266996" endx="856.3829485807549" xpos="811.9356866582439" endy="86.04145082166821" c2x="856.2338612732513">
+      <from>0</from>
+      <to>2</to>
+      <inputs default="0" any="0" invert="0">001(ADD)</inputs>
+      <outputs>(AWr=1;BWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="660.2209454089543" c2y="234.829701847597" c1y="209.9754679459106" description="" straight="0" type="2" ypos="169.1212340442242" endx="799.5268273109201" xpos="605.401337791305" endy="327.3506024159501" c2x="785.540553026604">
+      <from>1</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(PcWr=1;IrWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="972.9380969355636" c2y="93.39822274801186" c1y="72.1952562193423" description="" straight="1" type="2" ypos="50.99228969067274" endx="1062.658545748838" xpos="928.0778725289264" endy="114.6011892766815" c2x="1017.798321342201">
+      <from>2</from>
+      <to>3</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(ALUWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="1146.261389163388" c2y="242.6380986473404" c1y="193.2633212336694" description="" straight="1" type="2" ypos="143.8885438199983" endx="1165.229992210172" xpos="1136.777087639997" endy="292.0128760610114" c2x="1155.74569068678">
+      <from>3</from>
+      <to>4</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(RegWr=1;MuxW=01)</outputs>
+    </transition>
+    <transition c1x="1024.346482065662" c2y="358.2475412926272" c1y="349.2456924901456" description="" straight="1" type="2" ypos="340.2438436876639" endx="849.8138163768166" xpos="1111.612814910085" endy="367.2493900951089" c2x="937.0801492212394">
+      <from>4</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(PcWr=1;IrWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="387.164884863307" c2y="418.5540585783184" c1y="396.166780241529" description="" straight="1" type="2" ypos="373.7795019047397" endx="341.0550818782376" xpos="410.2197863558416" endy="440.9413369151077" c2x="364.1099833707723">
+      <from>5</from>
+      <to>6</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(RAM=1;MDRWr=1)</outputs>
+    </transition>
+    <transition c1x="391.8491219623966" c2y="530.9281371013027" c1y="511.0385284528576" description="" straight="1" type="2" ypos="491.1489198044125" endx="447.9932552650101" xpos="363.7770553110898" endy="550.8177457497478" c2x="419.9211886137034">
+      <from>6</from>
+      <to>7</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(RegWr=1;MuxW=10;RAM=1)</outputs>
+    </transition>
+    <transition c1x="603.9492856934021" c2y="437.5128588258849" c1y="491.1371738317714" description="" straight="1" type="2" ypos="544.761488837658" endx="774.0562456933369" xpos="518.8958056934346" endy="383.8885438199983" c2x="689.0027656933695">
+      <from>7</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(PcWr=1;IrWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="746.3067407770448" c2y="660.4061193979607" c1y="646.8775142662386" description="" straight="1" type="2" ypos="633.3489091345167" endx="815.3220088158461" xpos="711.7991067576442" endy="673.9347245296825" c2x="780.8143747964455">
+      <from>8</from>
+      <to>9</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>()</outputs>
+    </transition>
+    <transition c1x="842.850555238743" c2y="480.4308254740254" c1y="559.8953599031893" description="" straight="1" type="2" ypos="639.3598943323531" endx="829.2590505804786" xpos="849.6463075678753" endy="400.9662910448616" c2x="836.0548029096109">
+      <from>9</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(PcWr=1;IrWr=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="1238.278766881741" c2y="581.9004449171769" c1y="648.7155209689279" description="" straight="1" type="2" ypos="715.5305970206787" endx="1318.74178010784" xpos="1198.047260268692" endy="515.0853688654261" c2x="1278.510273494791">
+      <from>10</from>
+      <to>11</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>(Branch=1;RAM=1)</outputs>
+    </transition>
+    <transition c1x="1147.935015566648" c2y="406.2907570588161" c1y="437.1274509517323" description="" straight="1" type="2" ypos="467.9641448446484" endx="848.7000374598114" xpos="1297.552504620066" endy="375.4540631659" c2x="998.3175265132296">
+      <from>11</from>
+      <to>0</to>
+      <inputs default="0" any="0" invert="0">x</inputs>
+      <outputs>zero=0(PcWr=1;IrWr=1;RAM=1)/zero=1(Branch=1;PcWr=1;IrWr=1;RAM=1)</outputs>
+    </transition>
+  </machine>
+</qfsmproject>

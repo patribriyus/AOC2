@@ -1,0 +1,1281 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eadder32
+Z0 w1397309990
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2
+Z7 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/adder32.vhd
+Z8 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/adder32.vhd
+l0
+L33
+Vez3M66R73icgd5;^1]n[o0
+!s100 FdnT[E<XL_UiCO?C2]0L[0
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1559417183
+!i10b 1
+Z11 !s108 1559417183.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/adder32.vhd|
+Z13 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/adder32.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 adder32 0 22 ez3M66R73icgd5;^1]n[o0
+l41
+L39
+V9Th@5ho2TokL`O:o?GOnS2
+!s100 6lRC`O=[EbJ`<@kAJ`3P^1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu
+Z16 w1397309992
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/ALU.vhd
+Z18 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/ALU.vhd
+l0
+L33
+V@RAaWJGEJU]dl42V5llc>2
+!s100 E`1`MV@OJiDZHNeDL6[b81
+R9
+32
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/ALU.vhd|
+Z20 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/ALU.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 @RAaWJGEJU]dl42V5llc>2
+l42
+L40
+V>=Hj8m1iN?O16iTEo8A]m2
+!s100 X[SimW`d>R`c<i=CA]RP[1
+R9
+32
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R14
+R15
+Ebanco_ex
+Z21 w1553691870
+R4
+R5
+R6
+Z22 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_EX.vhd
+Z23 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_EX.vhd
+l0
+L32
+VPHQ9:bXzkHW[n6_J00R:z2
+!s100 `?TbTYVKRW=MT_]UT2ng03
+R9
+32
+R10
+!i10b 1
+R11
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_EX.vhd|
+Z25 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_EX.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_ex 0 22 PHQ9:bXzkHW[n6_J00R:z2
+l68
+L66
+VX2=JiL4C3Sh^>QFC51AT93
+!s100 [6Li3?SOo^kUa^Ui9ijQ11
+R9
+32
+R10
+!i10b 1
+R11
+R24
+R25
+!i113 1
+R14
+R15
+Ebanco_id
+Z26 w1457861618
+R4
+R5
+R6
+Z27 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_ID_predictor.vhd
+Z28 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_ID_predictor.vhd
+l0
+L8
+V[>N]9IWKER0Y`nd?Po9GG2
+!s100 56i:MCH7Yimh[JPjAdgQV3
+R9
+32
+Z29 !s110 1559417184
+!i10b 1
+R11
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_ID_predictor.vhd|
+Z31 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_ID_predictor.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_id 0 22 [>N]9IWKER0Y`nd?Po9GG2
+l25
+L23
+Vh10ceBBPV;S54ef7_=kTZ0
+!s100 WRLN@<QbgmA7lgMS1bRcl1
+R9
+32
+R29
+!i10b 1
+R11
+R30
+R31
+!i113 1
+R14
+R15
+Ebanco_mem
+Z32 w1397310004
+R4
+R5
+R6
+Z33 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_MEM.vhd
+Z34 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_MEM.vhd
+l0
+L32
+Ve_BCiA06hX`X=P]Tane_g1
+!s100 ?USSIc9eczC<TE>;kaObE1
+R9
+32
+R29
+!i10b 1
+Z35 !s108 1559417184.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_MEM.vhd|
+Z37 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_MEM.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 9 banco_mem 0 22 e_BCiA06hX`X=P]Tane_g1
+l54
+L52
+V@14DKN4R5m`n^;_f_[EgC1
+!s100 L3PLMMzSnSf5lMERo4k?l3
+R9
+32
+R29
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R14
+R15
+Ebanco_wb
+R32
+R4
+R5
+R6
+Z38 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_WB.vhd
+Z39 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_WB.vhd
+l0
+L32
+V6eXcQE7zz02BL3aGi[<F>3
+!s100 Dj=ZgPh1G[ne]R]6kzWRW1
+R9
+32
+R29
+!i10b 1
+R35
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_WB.vhd|
+Z41 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Banco_WB.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_wb 0 22 6eXcQE7zz02BL3aGi[<F>3
+l49
+L47
+VjKQ4_CS6D4@Z@GMkAePmJ3
+!s100 ?^XIZeBV;I]WDim1HT2QW1
+R9
+32
+R29
+!i10b 1
+R35
+R40
+R41
+!i113 1
+R14
+R15
+Ebranch_predictor
+Z42 w1553861197
+R4
+R5
+R6
+Z43 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/predictor_saltos.vhd
+Z44 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/predictor_saltos.vhd
+l0
+L8
+VOElW@3UDRTzQ3faF8NFSj2
+!s100 5LMm;[]Ri7L4UBW>F5??o0
+R9
+32
+Z45 !s110 1559417187
+!i10b 1
+Z46 !s108 1559417187.000000
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/predictor_saltos.vhd|
+Z48 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/predictor_saltos.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 16 branch_predictor 0 22 OElW@3UDRTzQ3faF8NFSj2
+l26
+L22
+VZ@Xh5J3j1z:_o3PifccXF0
+!s100 23hDQl_5PgCf^HcRea2kF1
+R9
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R14
+R15
+Ebreg
+Z49 w1521060254
+R3
+R2
+R4
+R5
+R6
+Z50 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/BReg.vhd
+Z51 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/BReg.vhd
+l0
+L36
+VVn_dFT2n6?o7C]gJBmjFh1
+!s100 _JHQejW;DO9M]5ihRHD:S1
+R9
+32
+R29
+!i10b 1
+R35
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/BReg.vhd|
+Z53 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/BReg.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 4 breg 0 22 Vn_dFT2n6?o7C]gJBmjFh1
+l55
+L50
+VI[Z5If8?9h6=Xi]DkI6@G2
+!s100 g5j38U]=Co;UeF7AK1FOz2
+R9
+32
+R29
+!i10b 1
+R35
+R52
+R53
+!i113 1
+R14
+R15
+Ecounter
+Z54 w1558038366
+R1
+R2
+R3
+R4
+R5
+R6
+Z55 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter.vhd
+Z56 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter.vhd
+l0
+L27
+V`R3b1Poih@<jo[W8kO<aK1
+!s100 0zAB8LHV7=G<JB>>=@POn0
+R9
+32
+R29
+!i10b 1
+R35
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter.vhd|
+Z58 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 counter 0 22 `R3b1Poih@<jo[W8kO<aK1
+l38
+L36
+Vd8IM>cN05gejKO_^HJM[P0
+!s100 9>1HLl`j0N@UGO>KPG07f1
+R9
+32
+R29
+!i10b 1
+R35
+R57
+R58
+!i113 1
+R14
+R15
+Ecounter_2bits
+R54
+R1
+R2
+R3
+R4
+R5
+R6
+Z59 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter_2bits.vhd
+Z60 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter_2bits.vhd
+l0
+L27
+V]6MlL4o1TgPd[7B]ZWD3z2
+!s100 Vf_jfMQXQ@<_D2ISHdWD<3
+R9
+32
+Z61 !s110 1559417185
+!i10b 1
+Z62 !s108 1559417185.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter_2bits.vhd|
+Z64 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/counter_2bits.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 13 counter_2bits 0 22 ]6MlL4o1TgPd[7B]ZWD3z2
+l36
+L34
+VM86^GMS5=jOOXK4E9785<2
+!s100 T85fP;@I;e?]IX@baHF4?3
+R9
+32
+R61
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R14
+R15
+Eext_signo
+Z65 w1397310008
+R4
+R5
+R6
+Z66 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Ext_signo.vhd
+Z67 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Ext_signo.vhd
+l0
+L32
+VXf93dK=jfGbHU]2Ef7mDW1
+!s100 =jQT7hQEW^Q9VGDz6>Dnd0
+R9
+32
+R61
+!i10b 1
+R62
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Ext_signo.vhd|
+Z69 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Ext_signo.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 9 ext_signo 0 22 Xf93dK=jfGbHU]2Ef7mDW1
+l39
+L37
+Va5[d?zV7L`XBX<c7AmWfn0
+!s100 LK3IFGmMiXJPmL2zW;mXf2
+R9
+32
+R61
+!i10b 1
+R62
+R68
+R69
+!i113 1
+R14
+R15
+Emc_datos
+R54
+R1
+R3
+R2
+R4
+R5
+R6
+Z70 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MC_datos.vhd
+Z71 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MC_datos.vhd
+l0
+L26
+V?GV133<f>_B2eVnhGWCA?3
+!s100 D2Tbm[bze?PNQDfa3jKIa2
+R9
+32
+R61
+!i10b 1
+R62
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MC_datos.vhd|
+Z73 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MC_datos.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R3
+R2
+R4
+R5
+DEx4 work 8 mc_datos 0 22 ?GV133<f>_B2eVnhGWCA?3
+l111
+L49
+VZ57^V`_YL?aNHTia3LD3H2
+!s100 `I5ccibo80:;88`NohbKT3
+R9
+32
+R61
+!i10b 1
+R62
+R72
+R73
+!i113 1
+R14
+R15
+Emd_cont
+R54
+R2
+R3
+R4
+R5
+R6
+Z74 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_cont.vhd
+Z75 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_cont.vhd
+l0
+L25
+Vm[_FfUY:@KJ@LSn4<cM9K2
+!s100 8@T>S0WYdIAm[K=V=Ob;T0
+R9
+32
+R61
+!i10b 1
+R62
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_cont.vhd|
+Z77 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_cont.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 7 md_cont 0 22 m[_FfUY:@KJ@LSn4<cM9K2
+l74
+L38
+VlIIN:Lf^bD8d5EH;7VLa?0
+!s100 MYeFN=UmegF[EAU5LQ;QN1
+R9
+32
+R61
+!i10b 1
+R62
+R76
+R77
+!i113 1
+R14
+R15
+Emd_mas_mc
+R54
+R2
+R3
+R1
+R4
+R5
+R6
+Z78 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_mas_MC.vhd
+Z79 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_mas_MC.vhd
+l0
+L21
+VZIVD_aR1bg?2NI_^FLRnP1
+!s100 dGFVj?YaeGjnU;eRhkWn71
+R9
+32
+Z80 !s110 1559417186
+!i10b 1
+Z81 !s108 1559417186.000000
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_mas_MC.vhd|
+Z83 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MD_mas_MC.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R1
+R4
+R5
+DEx4 work 9 md_mas_mc 0 22 ZIVD_aR1bg?2NI_^FLRnP1
+l81
+L33
+VzBMR^dlIS`hA?2?3Ih`g<2
+!s100 G:EfM]JdTHAJBVLEG?J5T2
+R9
+32
+R80
+!i10b 1
+R81
+R82
+R83
+!i113 1
+R14
+R15
+Ememoriaram_i
+Z84 w1559514528
+R3
+R2
+R4
+R5
+R6
+Z85 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_I_Test_contadores.vhd
+Z86 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_I_Test_contadores.vhd
+l0
+L32
+VYbZkhW9WoEbhnN`5@J6=`0
+!s100 Q@4V61X_V]:iAW=8FaYo:2
+R9
+32
+Z87 !s110 1559514532
+!i10b 1
+Z88 !s108 1559514532.000000
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_I_Test_contadores.vhd|
+Z90 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_I_Test_contadores.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 12 memoriaram_i 0 22 YbZkhW9WoEbhnN`5@J6=`0
+l46
+L41
+V2YnedN[4>neP_NgCoESB30
+!s100 NTdVfZ^g<W>XY=k0ZY38R0
+R9
+32
+R87
+!i10b 1
+R88
+R89
+R90
+!i113 1
+R14
+R15
+Emips_segmentado
+Z91 w1559519237
+R4
+R5
+R6
+Z92 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MIPs_predictor_2019.vhd
+Z93 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MIPs_predictor_2019.vhd
+l0
+L17
+Ve<S3UnMGALX==76So=gmA3
+!s100 DJcDbJgiN<BoEZ@019[2E2
+R9
+32
+Z94 !s110 1559519254
+!i10b 1
+Z95 !s108 1559519254.000000
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MIPs_predictor_2019.vhd|
+Z97 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/MIPs_predictor_2019.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 15 mips_segmentado 0 22 e<S3UnMGALX==76So=gmA3
+l279
+L23
+VCRnhXlmNLoeKVn4zjePRm1
+!s100 ;5>cHbM10:diVg3=B9M^`2
+R9
+32
+R94
+!i10b 1
+R95
+R96
+R97
+!i113 1
+R14
+R15
+Emux2_1
+Z98 w1397310294
+R4
+R5
+R6
+Z99 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_1.vhd
+Z100 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_1.vhd
+l0
+L32
+V3ffz>_Pd`0UGm<RQ39N2<1
+!s100 [VRg3F0=o?Z:]Y[CCZJje0
+R9
+32
+R80
+!i10b 1
+R81
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_1.vhd|
+Z102 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_1.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 6 mux2_1 0 22 3ffz>_Pd`0UGm<RQ39N2<1
+l41
+L39
+VmO@O?FljQV@CmH;ACBYgj1
+!s100 zIQT7B^e_I4Qli6JQET>o2
+R9
+32
+R80
+!i10b 1
+R81
+R101
+R102
+!i113 1
+R14
+R15
+Emux2_5bits
+Z103 w1397310028
+R4
+R5
+R6
+Z104 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_6bits.vhd
+Z105 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_6bits.vhd
+l0
+L32
+VhCRR<1Cbl2c7k1]J0>8dM2
+!s100 GnzQIA<O?`7V;D;ZbXOiA0
+R9
+32
+R45
+!i10b 1
+R81
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_6bits.vhd|
+Z107 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux2_6bits.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 10 mux2_5bits 0 22 hCRR<1Cbl2c7k1]J0>8dM2
+l41
+L39
+V[I3_:5o?GGJmF][39YDQA1
+!s100 =@Dj[OG[:JJ:5PSjamb5A3
+R9
+32
+R45
+!i10b 1
+R81
+R106
+R107
+!i113 1
+R14
+R15
+Emux4_1
+Z108 w1457725414
+R4
+R5
+R6
+Z109 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1.vhd
+Z110 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1.vhd
+l0
+L32
+V9@bHkReO;BnoSl;<HR[bi3
+!s100 BQIO3X7:4P^HWdcH31;Ah0
+R9
+32
+R45
+!i10b 1
+R46
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1.vhd|
+Z112 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 6 mux4_1 0 22 9@bHkReO;BnoSl;<HR[bi3
+l43
+L41
+VTi_f=KH9H=[PhThfFBkcI3
+!s100 @MbWAi35T37I;^o2@7>W91
+R9
+32
+R45
+!i10b 1
+R46
+R111
+R112
+!i113 1
+R14
+R15
+Emux4_1_32bits
+Z113 w1520954314
+R4
+R5
+R6
+Z114 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1_32bits.vhd
+Z115 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1_32bits.vhd
+l0
+L4
+V6d^O7`FCgJG1BW>[2WP>10
+!s100 eC]>Q3Z[89zBLkPeQ2Xj<1
+R9
+32
+R45
+!i10b 1
+R46
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1_32bits.vhd|
+Z117 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/mux4_1_32bits.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 13 mux4_1_32bits 0 22 6d^O7`FCgJG1BW>[2WP>10
+l13
+L12
+VPIWRB3OE3iGmK8J?U0zQ=0
+!s100 8bbIj9`VbVePPKl6mXQcJ1
+R9
+32
+R45
+!i10b 1
+R46
+R116
+R117
+!i113 1
+R14
+R15
+Eram_128_32
+Z118 w1559352077
+R1
+R3
+R2
+R4
+R5
+R6
+Z119 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_datos_enable.vhd
+Z120 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_datos_enable.vhd
+l0
+L34
+V:NFlRm0CJJooOe=[HS1cY1
+!s100 QCP]:Gok:;N17FRjCNm;j2
+R9
+32
+R80
+!i10b 1
+R81
+Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_datos_enable.vhd|
+Z122 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/memoriaRAM_datos_enable.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R3
+R2
+R4
+R5
+DEx4 work 10 ram_128_32 0 22 :NFlRm0CJJooOe=[HS1cY1
+l63
+L44
+VCk<5VEfG@D6N@RnKDzOmj0
+!s100 jPE>dYlKN[NoUh@HTF>3X1
+R9
+32
+R80
+!i10b 1
+R81
+R121
+R122
+!i113 1
+R14
+R15
+Ereg32
+Z123 w1397310034
+R4
+R5
+R6
+Z124 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg32.vhd
+Z125 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg32.vhd
+l0
+L32
+Vcf]H1V:29^h=K6L<M069Z0
+!s100 <HMai90R3mC^aKcUA9KWa3
+R9
+32
+Z126 !s110 1559417188
+!i10b 1
+Z127 !s108 1559417188.000000
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg32.vhd|
+Z129 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg32.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 5 reg32 0 22 cf]H1V:29^h=K6L<M069Z0
+l42
+L40
+VJ[W1HBgTgP5n;DfYZgH?h1
+!s100 2oc5;CJQla>1DYNY;i5db3
+R9
+32
+R126
+!i10b 1
+R127
+R128
+R129
+!i113 1
+R14
+R15
+Ereg4
+R54
+R4
+R5
+R6
+Z130 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg4.vhd
+Z131 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg4.vhd
+l0
+L32
+V3hDbhV_A7bzg1>4N9Qz@00
+!s100 l=iL6`mz=n<A[X<zhb>IZ2
+R9
+32
+R45
+!i10b 1
+R46
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg4.vhd|
+Z133 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg4.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 4 reg4 0 22 3hDbhV_A7bzg1>4N9Qz@00
+l42
+L40
+VzA];_Ozm[kd^llT>e0e[M1
+!s100 28Sd8NZiVGG^I>k:J0?W82
+R9
+32
+R45
+!i10b 1
+R46
+R132
+R133
+!i113 1
+R14
+R15
+Ereg7
+R54
+R4
+R5
+R6
+Z134 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg7.vhd
+Z135 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg7.vhd
+l0
+L32
+VY76]M0SAIP1ABKT=KKW1>1
+!s100 ]7?6gJiYK3k@a36j=V3LF0
+R9
+32
+R126
+!i10b 1
+R127
+Z136 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg7.vhd|
+Z137 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/reg7.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 4 reg7 0 22 Y76]M0SAIP1ABKT=KKW1>1
+l42
+L40
+Vd_dZ`chTWz1oAMoYnS5Oe2
+!s100 @4J]JNGPUO6oM?:^`ETEV1
+R9
+32
+R126
+!i10b 1
+R127
+R136
+R137
+!i113 1
+R14
+R15
+Etest_md
+R54
+R4
+R5
+R6
+Z138 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Testbench_MD.vhd
+Z139 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Testbench_MD.vhd
+l0
+L35
+Vl`eKiS1X;JG:9WglTT<@V2
+!s100 ffV?L5m[g7LMkKf`Rf0Tc3
+R9
+32
+R126
+!i10b 1
+R127
+Z140 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Testbench_MD.vhd|
+Z141 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/Testbench_MD.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R4
+R5
+DEx4 work 7 test_md 0 22 l`eKiS1X;JG:9WglTT<@V2
+l73
+L38
+VnZgK6F:mD:RkHKR=>@77@2
+!s100 0XUS;]lLDDJe3Z7z_O;RW0
+R9
+32
+R126
+!i10b 1
+R127
+R140
+R141
+!i113 1
+R14
+R15
+Etestbench
+Z142 w1520888234
+R1
+R4
+R5
+R6
+Z143 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_Mips.vhd
+Z144 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_Mips.vhd
+l0
+L7
+V?RXCn9@FP9m8X1o_bn1`P3
+!s100 E5:`7ea_eNYOUE@_LK2MY1
+R9
+32
+Z145 !s110 1559417189
+!i10b 1
+Z146 !s108 1559417189.000000
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_Mips.vhd|
+Z148 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_Mips.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R1
+R4
+R5
+DEx4 work 9 testbench 0 22 ?RXCn9@FP9m8X1o_bn1`P3
+l24
+L10
+VcF7aHoN>fY_5Nnm_0UPLk2
+!s100 H`9Dmn2O>^WRDfKCAVlQB0
+R9
+32
+R145
+!i10b 1
+R146
+R147
+R148
+!i113 1
+R14
+R15
+Etestbench_md_mas_mc
+Z149 w1559421144
+R2
+R3
+R1
+R4
+R5
+R6
+Z150 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_verificacion.vhd
+Z151 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_verificacion.vhd
+l0
+L10
+Vf>eozkj:AQlP>_Ch0<acj0
+!s100 [NEW8K5Cj:KBaPXgJ9Shg2
+R9
+32
+Z152 !s110 1559560821
+!i10b 1
+Z153 !s108 1559560821.000000
+Z154 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_verificacion.vhd|
+Z155 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/testbench_verificacion.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R2
+R3
+R1
+R4
+R5
+Z156 DEx4 work 19 testbench_md_mas_mc 0 22 f>eozkj:AQlP>_Ch0<acj0
+l33
+L13
+VCZ5S`Nf2hTP2<@[RO<Jde1
+!s100 dzD6O[MO_^8Ybbc2TgjM12
+R9
+32
+R152
+!i10b 1
+R153
+R154
+R155
+!i113 1
+R14
+R15
+Etwo_bits_shifter
+Z157 w1397310000
+R4
+R5
+R6
+Z158 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/bits_shifter.vhd
+Z159 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/bits_shifter.vhd
+l0
+L32
+V>``KTYRlmPk@4izOeR>SC2
+!s100 deJGV>HE6>8?]PdW4eZi]0
+R9
+32
+R29
+!i10b 1
+R35
+Z160 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/bits_shifter.vhd|
+Z161 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/bits_shifter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 16 two_bits_shifter 0 22 >``KTYRlmPk@4izOeR>SC2
+l39
+L37
+Vbj_^QdRmenNNW7b;[Wll]1
+!s100 i;0b?lmD0hmf`Rg0aMFK72
+R9
+32
+R29
+!i10b 1
+R35
+R160
+R161
+!i113 1
+R14
+R15
+Eua
+Z162 w1556328111
+R4
+R5
+R6
+Z163 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UA.vhd
+Z164 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UA.vhd
+l0
+L14
+VV_z4L`O58ZG;X[69LGL4d2
+!s100 =56gT7ZTNW1WhkV52E;]M3
+R9
+32
+R145
+!i10b 1
+R146
+Z165 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UA.vhd|
+Z166 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UA.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 2 ua 0 22 V_z4L`O58ZG;X[69LGL4d2
+l29
+L27
+VnBXzRX<b`Z1P8a7KQIi2`2
+!s100 d<VmzOfhT0MZGSZUIjBP`2
+R9
+32
+R145
+!i10b 1
+R146
+R165
+R166
+!i113 1
+R14
+R15
+Euc
+Z167 w1556319131
+R4
+R5
+R6
+Z168 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_Mips.vhd
+Z169 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_Mips.vhd
+l0
+L32
+VPaR<_7z7cPEgjd6=8oT5c2
+!s100 =f3IL?76eQZ8kU_z7_h_`2
+R9
+32
+R145
+!i10b 1
+R146
+Z170 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_Mips.vhd|
+Z171 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_Mips.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 2 uc 0 22 PaR<_7z7cPEgjd6=8oT5c2
+l52
+L50
+VWo`K5Ie>ole7W_aBc^igL3
+!s100 <I?FhETFhF64^mT>D=af^0
+R9
+32
+R145
+!i10b 1
+R146
+R170
+R171
+!i113 1
+R14
+R15
+Euc_mc
+Z172 w1559387974
+R4
+R5
+R6
+Z173 8C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_MC.vhd
+Z174 FC:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_MC.vhd
+l0
+L32
+VFJ5mmc^TNfeIWkKjc@_J`2
+!s100 ;zn?V_ZWKoZgagdd`ML[02
+R9
+32
+R145
+!i10b 1
+R146
+Z175 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_MC.vhd|
+Z176 !s107 C:/Users/patri/Desktop/UNIVERSIDAD/CUATRIMESTRE4/AOC 2/PROYECTO 2/fuentes_P2_2019/UC_MC.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 5 uc_mc 0 22 FJ5mmc^TNfeIWkKjc@_J`2
+l76
+L58
+Vk83YmnEIOmEE4R^AXKflG1
+!s100 Igck:]j@QmgJ5GVnYR1Z53
+R9
+32
+!s110 1559417190
+!i10b 1
+R146
+R175
+R176
+!i113 1
+R14
+R15
